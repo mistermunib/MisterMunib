@@ -19,16 +19,16 @@
 
 ### 📬 Connect with Me:
 <p align="left">
-  <a href="https://twitter.com/mistermunib" target="blank">
+  <a href="https://twitter.com/mistermunib" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mistermunib" target="blank">
+  <a href="https://linkedin.com/in/mistermunib" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mistermunib" target="blank">
+  <a href="https://instagram.com/mistermunib" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@mistermunib" target="blank">
+  <a href="https://medium.com/@mistermunib" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
@@ -64,7 +64,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <!-- Add more relevant tools if necessary -->
 </p>
 
 ---
@@ -76,6 +75,6 @@
 ---
 
 ### ☕ Support Me:
-<p><a href="https://www.buymeacoffee.com/munibahmad"> 
+<p><a href="https://www.buymeacoffee.com/munibahmad" target="_blank"> 
   <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="munibahmad" />
 </a></p>
