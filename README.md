@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Munib Ahmad</h1>
+<html>
+  <head>
+    <style>
+    a{
+      text-decoration : none;
+      }
+  </style>
+  </head>
+  
+  <h1 align="center">Hi 👋, I'm Munib Ahmad</h1>
 <h3 align="center">A passionate full-stack developer and digital creator from Pakistan</h3>
 
 <p align="center"> 
@@ -81,3 +90,6 @@
 <p><a href="https://www.buymeacoffee.com/munibahmad" target="_blank"> 
   <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="munibahmad" />
 </a></p>
+
+  
+</html>
