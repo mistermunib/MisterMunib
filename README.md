@@ -33,7 +33,7 @@
   <a href="https://medium.com/@mistermunib" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-  <a href="https://mistermunib.news" target="_blank">
+  <a href="https://mistermunib.tech" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Website" height="30" width="40" />
   </a>
 </p>
